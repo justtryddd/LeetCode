@@ -18,6 +18,8 @@ public class BubbleSort {
                     arr[j] = temp;
                 
 //                测试能否正常使用IDEA中的pull功能
+                //测试SSH功能是否正常
+
             }
         }
     }
