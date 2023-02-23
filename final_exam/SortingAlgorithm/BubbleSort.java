@@ -17,7 +17,7 @@ public class BubbleSort {
                     arr[i] = arr[j];
                     arr[j] = temp;
                 
-                测试能否正常使用IDEA中的pull功能
+//                测试能否正常使用IDEA中的pull功能
             }
         }
     }
